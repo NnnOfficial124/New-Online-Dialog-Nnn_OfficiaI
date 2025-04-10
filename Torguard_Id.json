@@ -1,0 +1,7 @@
+{
+  "allowed_ids": [
+    "androidid_1234567890abcdef",
+    "androidid_abcdef1234567890",
+    "androidid_deadbeefcafebabe"
+  ]
+}
