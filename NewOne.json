@@ -6,5 +6,6 @@
   "titleColor": "#FF8F00",
   "messageColor": "#FF7043",
   "joinText": "Join",
-  "cancelText": "Cancel"
+  "cancelText": "Cancel",
+  "show": "yes"
 }
