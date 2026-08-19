@@ -9,6 +9,5 @@
   "buttonText": "Update Now",
   "buttonColor": "#1E88E5",
   "buttonPressedColor": "#1565C0",
-  "updateUrl": "https://example.com/download.apk",
-  "celebrationEmojis": "🥳💥✨🎉🌟🎊"
+  "updateUrl": "https://example.com/download.apk"
 }
