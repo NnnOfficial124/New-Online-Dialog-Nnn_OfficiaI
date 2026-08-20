@@ -1,0 +1,13 @@
+{
+  "versionName": "1.8.2",
+  "titleText": "Mandatory Update",
+  "titleColor": "#FFFFFF",
+  "messageText": "A critical security and feature update is available. Please update.",
+  "messageColor": "#E0E0E0",
+  "clickableText": "critical security",
+  "clickableUrl": "https://example.com/terms",
+  "buttonText": "Update Now",
+  "buttonColor": "#1E88E5",
+  "buttonPressedColor": "#1565C0",
+  "updateUrl": "https://example.com/download.apk"
+}
